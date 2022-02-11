@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lucasacoelho
-- 👀 I’m interested in program with c++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in program with Python and JS
+- 🌱 I’m currently learning Python and JS
+
 
 <!---
 lucasacoelho/lucasacoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

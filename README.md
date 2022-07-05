@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasacoelho
-- 👀 I’m interested in program with Python and JS
-- 🌱 I’m currently learning Python and JS
+- 👀 I’m interested in program in web with Python and JS
+- 🌱 I’m currently learning Python, HTML, CSS and JS
 
 
 <!---

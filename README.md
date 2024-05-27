@@ -15,4 +15,7 @@ https://linktr.ee/lucasacoelho
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasacoelho"/>
 
 </div>
+<a href="https://github.com/lucasacoelho/Desafios-Beecrowd-CSharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=convoychat" />
+</a>
 

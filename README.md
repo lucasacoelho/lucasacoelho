@@ -12,7 +12,6 @@ https://linktr.ee/lucasacoelho
 <a href="https://github.com/lucasacoelho">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacoelho&layout=compact&langs_count=7&theme=maroongold"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacoelho&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-</div>
 <br>
 <br>
 <a href="https://github.com/lucasacoelho/Desafios-Beecrowd-CSharp">
@@ -21,4 +20,5 @@ https://linktr.ee/lucasacoelho
 <a href="https://github.com/lucasacoelho/CalculadoraGastoCombustivel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=CalculadoraGastoCombustivel&theme=maroongold" />
 </a>
+</div>
 

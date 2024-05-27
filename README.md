@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 https://linktr.ee/lucasacoelho
 <div>
 <a href="https://github.com/lucasacoelho">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacoelho&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacoelho&layout=compact&langs_count=7&theme=shadow_red"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacoelho&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
 </div>

@@ -15,10 +15,10 @@ https://linktr.ee/lucasacoelho
 <br>
 <br>
 <a href="https://github.com/lucasacoelho/Desafios-Beecrowd-CSharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=Desafios-Beecrowd-CSharp&theme=maroongold" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=Desafios-Beecrowd-CSharp&theme=maroongold" />
 </a>
 <a href="https://github.com/lucasacoelho/CalculadoraGastoCombustivel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=CalculadoraGastoCombustivel&theme=maroongold" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=CalculadoraGastoCombustivel&theme=maroongold" />
 </a>
 </div>
 

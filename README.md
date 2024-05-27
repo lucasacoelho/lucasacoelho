@@ -18,4 +18,7 @@ https://linktr.ee/lucasacoelho
 <a href="https://github.com/lucasacoelho/Desafios-Beecrowd-CSharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=Desafios-Beecrowd-CSharp" />
 </a>
+<a href="https://github.com/lucasacoelho/CalculadoraGastoCombustivel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=CalculadoraGastoCombustivel" />
+</a>
 

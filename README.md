@@ -12,6 +12,7 @@ https://linktr.ee/lucasacoelho
 <a href="https://github.com/lucasacoelho">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasacoelho&layout=compact&langs_count=7&theme=maroongold"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasacoelho&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasacoelho)](https://github.com/anuraghazra/github-readme-stats)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasacoelho"/>
+
 </div>
 

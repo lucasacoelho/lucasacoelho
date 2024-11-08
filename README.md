@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @lucasacoelho
-- 👀 I’m interested in program in web with Python and JS
-- 🌱 I’m currently learning Python, HTML, CSS and JS
+Hello, my name is Lucas Coelho, i'm a brazillian Computer sciense student
+I'm currently lerning C# and Unity because i'm trying to work producing games
+i had some expirience with Front-end on past using JS and NodeJS
+There's some of my repositorys down here with you want to take a look!
 
+here are my social media: https://linktr.ee/lucasacoelho
 
 <!---
 lucasacoelho/lucasacoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

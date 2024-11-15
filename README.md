@@ -23,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/lucasacoelho/Carrot_collector.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=Carrot_collector&theme=maroongold" />
+
+<a href="https://github.com/lucasacoelho/3D-dogging-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=3D-dogging-game&theme=maroongold" />
+
+<a href="https://github.com/lucasacoelho/Carrot_collector.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasacoelho&repo=Carrot_collector&theme=maroongold" />
 </a>
 </div>
 
